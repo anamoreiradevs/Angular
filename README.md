@@ -1,3 +1,5 @@
+[![DeepScan grade](https://deepscan.io/api/teams/20493/projects/23943/branches/732128/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=20493&pid=23943&bid=732128)
+
 # FirstProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
